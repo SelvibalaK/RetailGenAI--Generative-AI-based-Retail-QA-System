@@ -15,18 +15,16 @@ Gen AI Course | Gen AI Tutorial For Beginners : https://www.youtube.com/watch?v=
 
 ## Setup
 * Clone this repository:
-git clone [https://github.com/your-repo/RetailGenAI-TshirtQA.git](https://github.com/SelvibalaK/RetailGenAI--Generative-AI-based-Retail-Q-A-System)
-
+git clone https://github.com/SelvibalaK/RetailGenAI--Generative-AI-based-Retail-QA-System
 * Install dependencies:
 pip install -r requirements.txt
-
 * Run the model:
 python main.py
 
 ## Future Improvements
-Expand to other retail categories
-Improve model accuracy
-Integrate with real-time inventory data
+* Expand to other retail categories
+* Improve model accuracy
+* Integrate with real-time inventory data
 
 ## Contributions
 Feel free to fork, modify, and improve the project!
