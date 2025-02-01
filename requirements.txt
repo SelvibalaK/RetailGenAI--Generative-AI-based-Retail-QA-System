@@ -1,0 +1,15 @@
+langchain==0.0.300
+langchain_community
+langchain_core
+langchain_experimental
+langchain_google_genai
+pymysql
+pydantic
+mysql-connector-python
+sentence-transformers
+chromadb
+streamlit
+tiktoken
+faiss-cpu
+protobuf~=3.19.0
+google-cloud-aiplatform
