@@ -1,0 +1,5 @@
+# System and temporary files
+AppData/
+.cache/
+.tmp/
+*.log
