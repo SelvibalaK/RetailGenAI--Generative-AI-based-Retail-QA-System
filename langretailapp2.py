@@ -2,7 +2,7 @@ import streamlit as st
 import importlib.util
 
 spec = importlib.util.spec_from_file_location(
-    "langretailmain", 
+    "sql_assistant", 
     r"D:\User1\langchainretail\setup\langretailmain.py"
 )
 sql_assistant_module = importlib.util.module_from_spec(spec)
